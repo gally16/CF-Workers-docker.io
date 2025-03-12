@@ -1,4 +1,4 @@
-|DockerHub 镜像仓库 |  镜像服务地址 |带监控
+# 🛠️ 第三方 DockerHub 镜像服务 带监控
 
 https://mirror.kentxxq.com/image
 
@@ -6,27 +6,7 @@ https://mirror.kentxxq.com/image
 ![QQ截图20250312205923.png](https://img.picui.cn/free/2025/03/12/67d1854e4ebb7.png)
 
 
-| DockerHub 镜像仓库 | 镜像加地址 |
-| ------------------ | ----------- |
-| [bestcfipas镜像服务](https://t.me/bestcfipas/1900) | `https://docker.registry.cyou` |
-|  | `https://docker-cf.registry.cyou` |
-| [zero_free镜像服务](https://t.me/zero_free/80) | `https://docker.jsdelivr.fyi` |
-|  | `https://dockercf.jsdelivr.fyi` |
-|  | `https://dockertest.jsdelivr.fyi` |
-| [docker proxy](https://dockerpull.com/) | `https://dockerpull.com` |
-| [docker proxy](https://dockerproxy.cn/) | `https://dockerproxy.cn` |
-| [Docker镜像加速站](https://hub.uuuadc.top/) | `https://hub.uuuadc.top` |
-|  | `https://docker.1panel.live` |
-|  | `https://hub.rat.dev` |
-| [DockerHub 镜像加速代理](https://docker.anyhub.us.kg/) | `https://docker.anyhub.us.kg` |
-|  | `https://docker.chenby.cn` |
-|  | `https://dockerhub.jobcher.com` |
-| [镜像使用说明](https://dockerhub.icu/) | `https://dockerhub.icu` |
-| [Docker镜像加速站](https://docker.ckyl.me/) | `https://docker.ckyl.me` |
-| [镜像使用说明](https://docker.awsl9527.cn/) | `https://docker.awsl9527.cn` |
-| [镜像使用说明](https://docker.hpcloud.cloud/) | `https://docker.hpcloud.cloud` |
-| [DaoCloud 镜像站](https://github.com/DaoCloud/public-image-mirror) | `https://docker.m.daocloud.io` |
-| [AtomHub 可信镜像仓库平台](https://atomhub.openatom.cn/) (只包含基础镜像，共336个) | `https://atomhub.openatom.cn` |
+
 
 [**第三方 DockerHub 镜像服务列表**](https://github.com/cmliu/CF-Workers-docker.io?tab=readme-ov-file#%E7%AC%AC%E4%B8%89%E6%96%B9-dockerhub-%E9%95%9C%E5%83%8F%E6%9C%8D%E5%8A%A1)
 
@@ -149,7 +129,27 @@ location = "xxxx.xx.com"
 | UA | `netcraft` |❌| 支持多元素, 元素之间使用空格或换行作间隔 |
 
 # 🛠️ 第三方 DockerHub 镜像服务
-
+| DockerHub 镜像仓库 | 镜像加地址 |
+| ------------------ | ----------- |
+| [bestcfipas镜像服务](https://t.me/bestcfipas/1900) | `https://docker.registry.cyou` |
+|  | `https://docker-cf.registry.cyou` |
+| [zero_free镜像服务](https://t.me/zero_free/80) | `https://docker.jsdelivr.fyi` |
+|  | `https://dockercf.jsdelivr.fyi` |
+|  | `https://dockertest.jsdelivr.fyi` |
+| [docker proxy](https://dockerpull.com/) | `https://dockerpull.com` |
+| [docker proxy](https://dockerproxy.cn/) | `https://dockerproxy.cn` |
+| [Docker镜像加速站](https://hub.uuuadc.top/) | `https://hub.uuuadc.top` |
+|  | `https://docker.1panel.live` |
+|  | `https://hub.rat.dev` |
+| [DockerHub 镜像加速代理](https://docker.anyhub.us.kg/) | `https://docker.anyhub.us.kg` |
+|  | `https://docker.chenby.cn` |
+|  | `https://dockerhub.jobcher.com` |
+| [镜像使用说明](https://dockerhub.icu/) | `https://dockerhub.icu` |
+| [Docker镜像加速站](https://docker.ckyl.me/) | `https://docker.ckyl.me` |
+| [镜像使用说明](https://docker.awsl9527.cn/) | `https://docker.awsl9527.cn` |
+| [镜像使用说明](https://docker.hpcloud.cloud/) | `https://docker.hpcloud.cloud` |
+| [DaoCloud 镜像站](https://github.com/DaoCloud/public-image-mirror) | `https://docker.m.daocloud.io` |
+| [AtomHub 可信镜像仓库平台](https://atomhub.openatom.cn/) (只包含基础镜像，共336个) | `https://atomhub.openatom.cn` |
 **注意:**
 - 以下内容仅做镜像服务的整理与搜集，未做任何安全性检测和验证。
 - 使用前请自行斟酌，并根据实际需求进行必要的安全审查。
